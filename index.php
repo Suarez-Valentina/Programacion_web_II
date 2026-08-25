@@ -1,8 +1,12 @@
 <html>
-<head><title>Mi primer documento PHP</title></head>
+<head>
+    <title>Mi primer documento PHP</title>
+</head>
 <body>
+
 <?php
-echo “Hola Mundo”;
+echo "Hola Mundo";
 ?>
+
 </body>
 </html>
