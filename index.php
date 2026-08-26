@@ -3,10 +3,10 @@
     <title>Mi primer documento PHP</title>
 </head>
 <body>
-
-<?php
-echo "Hola Mundo";
-?>
-
+    <h1>
+        <?php
+        echo "Hola Mundo";
+        ?>
+</h1>
 </body>
 </html>
